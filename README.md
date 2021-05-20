@@ -1,4 +1,23 @@
-# Freedom Fashion - Website 
+<img height="180px" src="https://lh3.googleusercontent.com/Az4WDMzOcUMqguxHY3Omphv7fFAXrSz7hlgPSwPmSmDG3f8GnGsS5BRYcWy1pADNwGNbJxRD3AVCWnEcO-NB9YUe3DIkKVxjYtDig0uPa1rHEsmfW-4crFTQVsZQM-ZTDI5zMDb0AVkZDLyvxXAVPSpAnQAzU2FyCVEGn2Od7LD2NhFafJnohqFJyOF8qla1p_7L7t3DUZENEewwa_XzVlQQ9xELbgj532NJOHlpZwLwgF-0sa2zRLT-Xd531BBPoG4ZU_BfAweDdCghZ9ENwlpThdY1cE1SRwUh2aJlxAj0dFIkfgyPvvd5yr0CrLikv71mDXoOBXE3rLskSYJEferE32VoMHwwDXf1npYa8JHAP0Jjc9d5P4n2zE8yluUYfVukMsoPeX-0Mfhe9N532OvHfwBMYyC3l0GBhX9A212Z5Gg4QouT3CX1RTi088H92f624OrHrAASWJv5mqDrKpYyTZH7-B9ANMuy0WEIWX7iyf617-seaorujZZ0kH4-vobP4-933GrwzwxJ4ETvNgZBp9azLUt61IUwjSOlvVBOsnToCMz1CfpXMVPL1Kc6Vv7B1ucTwkKdo62IpQGB11cdf4oDPoO9dj524GwhpSTezJ75hYNAUBLtif1cxp_yjax5hpXiQeWPROlNsYABtnJJa38qSqciATgoN-SUmc9V6iRbz3JMglUYR5r3il5daMl-scwiorgoSsddTbeqdW8=w900-h500-no?authuser=0">
 
-Modelo de site e-commerce de moda desenvolvido para fins de aprendizagem com as linguagem HTML / CSS / JS + JQUERY.
+## Freedom Fashion - Website 👚 
+
+Modelo de site e-commerce de moda desenvolvido para fins de aprendizagem com as linguagem HTML, CSS, Javascript + JQuery.
+
+## Objetivo do projeto 🚀
+
+Criar um modelo responsivo e dinâmico de um sistema de comércio digital, utilizando técnicas de UI e UX Design. 
+
+## Preview 📷
+
+<img src="https://lh3.googleusercontent.com/hTgwAF_qaP3JL0zoic_f0k9Cag3xiHM5hxUV_WLEpbJzQ02H4Mtoiwm1qoG5hZW6svF89TsuINy-ofvx5tFfKqazOJvttCHJgByTu4lHQ3Fl8EwGFRy8mFV2MQS0Dm7hwJwhLNW8Wt27dNDAkNwSRQECEoERY_FIxxWAKaClSieQ_R5J37KVUjl-Udhib0iGl2crmfijziGk3On4hhMgCcMQX7jJmwUvuAyZIDRlaATiYRwVdx_bVIZXt3_8gmYUMJMdlYFSoxZtvSkJleLsaYd1JTHEkR9J5MNxsNejT8TnJXJtHnmWZ62064fj8OacxiDXgf3pYq20hE7tVvG4d7jXlCEG9G69sMsZD9utVnYqeD3wHM4ofpoZFGfEiyHzVCjQ8B4tdiwyy0HMaY3LTrrhpaG5jpJKKSwB3VX9ngsRPO-pG1y8_gG3Sq7BVczo2Yn7juQIDczqWLHDauj7pPrj-T2yjtBjugsZk85CJLoEc4AdicBKXyPg79q1JCdLpBXH8DDdREW2xJuEHgQ3Y9u38pUeoln0L4qA1hUl4vAfIH0_wDp_POZQgrf9K7ezCFuS9BzBHr6MfY9OgA0ub0ZIqKD4p-TzQDvjibafWcSVLZJb3Hnn5PMzXHwsrSfRD7UtkJ5O6jCudoHfe4gIU1FGYGKgSnL-_8pnFxn97aPytab6OILH5DB8E6G8vA2kAhMgTDbR-xwIccw9vFoLP2o=w394-h178-no?authuser=0">
+
+## Link do website 🌎
+
+https://freedom-fashion.netlify.app/
+
+
+
+
+
 
